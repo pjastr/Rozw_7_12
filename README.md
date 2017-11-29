@@ -1,0 +1,1 @@
+Napisz program, który sprawdza czy w folderze projektu istnieje folder na nazwie ABC. Jeśli tak, należy sprawdzić czy istnieje plik w tym folderze o nazwie bilet.txt. Jeśli plik istnieje, wyświetl na konsoli jego zwartość. Jeśli na którym etapie jest błąd, wyświetl komunikat dla użytkownika.
